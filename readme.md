@@ -1,5 +1,3 @@
-# Assignment Completed : 21 April 2025 (Local Storage)
-
 # Personal Library Manager
 
 A simple command-line application to help you manage your personal book library.  
